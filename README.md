@@ -1,7 +1,7 @@
 # LocalMind
 ## A Local-First Cognitive & LLM Observability Engine for Developers
-LocalMind is a local-first, privacy-respecting personal AI operations center for Linux. It brings together system health monitoring, calendar and email integration, and LLM-powered insights—all in a unified terminal dashboard.the disk space was filled purposely for this exp
-### note:  
+LocalMind is a local-first, privacy-respecting personal AI operations center for Linux. It brings together system health monitoring, calendar and email integration, and LLM-powered insights—all in a unified terminal dashboard.note :the disk space was filled purposely for this exp
+
 ![the dashboard](static/image.png)
 ![](static/image-1.png)
 ![](static/image-2.png)
