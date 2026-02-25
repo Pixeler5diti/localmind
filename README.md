@@ -3,9 +3,9 @@
 LocalMind is a local-first, privacy-respecting personal AI operations center for my personal system(fedora). It brings together system health monitoring, calendar and email integration, and LLM-powered insights—all in a unified terminal dashboard.note :the disk space was filled purposely for this exp
 
 ![the dashboard](static/image.png)
-![](static/(image1.png))
-![](static/(image2.png))
-![]((static/image3.png))
+![](static/image1.png)
+![](static/image2.png)
+![](static/image3.png)
 ## Features
 
 - **System Health Monitoring:**  
